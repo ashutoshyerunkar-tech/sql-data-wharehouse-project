@@ -1,7 +1,7 @@
-## Data Wharehouse & Analytics Project
+## Data Warehouse & Analytics Project
 
-Welcome to the **Data Wharehouse & Analytics Project**
-This Project demonstartaes a comprihensive data Wharehouse & analytics solution, from building a data wharehouse to generate to generate actionable insights. Design as a portfolio project highlights industries best practices in data engenerring and analytics.
+Welcome to the **Data Warehouse & Analytics Project**
+This project demonstrates a comprehensive data warehouse and analytics solution — from building a modern data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ----
 ## 🚀 Project Requirements
@@ -37,4 +37,5 @@ This project is licensed under the [MIT License] . You are free to use, modify, 
 
 🌟 About Me
 
-Hi! I am Ashutosh a MBA graduate specialising in Marketing & Business Analytics with 1.6 years of experience in Business Transformation and Process Excellence. Experienced in driving automation initiatives, conducting risk assessments, and leading Lean-based improvement projects across mortgage and operations portfolios. Recognised for analytical thinking,improving my skills and increasing my horaizon.
+Hi! I am Ashutosh, an MBA graduate specializing in Marketing & Business Analytics with 1.6 years of experience in Business Transformation and Process Excellence. I have experience driving automation initiatives, conducting risk assessments, and leading Lean-based improvement projects across mortgage and operations portfolios.
+I am recognized for my analytical thinking, continuous learning mindset, and commitment to expanding my professional horizon.
